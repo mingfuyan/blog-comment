@@ -1,1 +1,1 @@
-# blog-comments
+# blog-comment used for gittalk
